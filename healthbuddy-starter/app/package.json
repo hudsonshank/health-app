@@ -1,0 +1,20 @@
+{
+  "name": "healthbuddy-app",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "~51.0.0",
+    "expo-router": "^3.5.0",
+    "react": "18.2.0",
+    "react-native": "0.74.0",
+    "@supabase/supabase-js": "^2.46.0",
+    "react-native-calendars": "^1.1304.0",
+    "victory-native": "^36.9.2",
+    "react-native-svg": "^15.2.0"
+  }
+}

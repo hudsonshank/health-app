@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "HealthBuddy",
+    "slug": "healthbuddy",
+    "scheme": "healthbuddy",
+    "plugins": [
+      "expo-router"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png"
+      }
+    }
+  }
+}
